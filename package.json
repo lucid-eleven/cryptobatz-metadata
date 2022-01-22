@@ -1,0 +1,12 @@
+{
+  "name": "CryptoBatz Metadata",
+  "version": "1.0.0",
+  "description": "Metadata and provenance hashing information for the CryptoBatz by Ozzy Osbourne NFT collection",
+  "license": "MIT",
+  "scripts": {
+    "calculate": "node provenance.js"
+  },
+  "dependencies": {
+    "ethers": "^5.5.1"
+  }
+}

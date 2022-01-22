@@ -1,0 +1,24 @@
+{
+  "name": "CryptoBat #4228",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://QmX89C3124brH2QHLYJkVvBWpthy9T81NvtbqaQb5Qguvg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ghostly White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blood Thirsty"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    }
+  ],
+  "provenanceSequence": 4228
+}

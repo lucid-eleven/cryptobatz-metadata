@@ -1,0 +1,12 @@
+{
+  "name": "HellBat",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://QmdX2QqDYttLzs6yw7QMKjkp3bdnwhfZcVJ1kNg3jR4Es8",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "HellBat"
+    }
+  ],
+  "provenanceSequence": 558
+}

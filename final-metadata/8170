@@ -1,0 +1,12 @@
+{
+  "name": "MegadragonBat",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://QmToTgGb3dX6rAbmN424Q3DZEq4jQLuhxBhdXj5J1JjYWr",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "MegadragonBat"
+    }
+  ],
+  "provenanceSequence": 5410
+}

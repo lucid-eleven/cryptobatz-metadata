@@ -1,0 +1,12 @@
+{
+  "name": "GhostBat",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://QmQsacNJT8Xy93iVhV37DoYSkidTA8AyH7dwye2cKyLN6s",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "GhostBat"
+    }
+  ],
+  "provenanceSequence": 5640
+}

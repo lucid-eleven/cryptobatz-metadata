@@ -1,0 +1,12 @@
+{
+  "name": "GargoyleBat",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://Qmb2oDdqNqpUGPD6aE3uN9qTo9i77kRfrpFf5E36GKbDbb",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "GargoyleBat"
+    }
+  ],
+  "provenanceSequence": 5349
+}

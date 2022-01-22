@@ -1,0 +1,12 @@
+{
+  "name": "DarkBat",
+  "description": "Bloodsucking blockchain CryptoBatz, out scanning the metaverse skies for a taste of some non-fungible blood. Spawned by the Prince of Darkness and his scientists, Sutter Systems.",
+  "image": "ipfs://QmfYmVBhHgLym1rvSMjeZjFjYxywG5MfmUsEmopcGm8M7J",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "DarkBat"
+    }
+  ],
+  "provenanceSequence": 1819
+}
